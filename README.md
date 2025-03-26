@@ -1,2 +1,2 @@
 # To-Do List
-to do list   app 
+This To-Do List App allows users to add, mark as completed, and delete tasks. It features a simple HTML structure, styled with CSS, and powered by JavaScript for interactivity. Users can type a task, click "Add" to add it to the list, click a task to mark it as completed, and remove tasks using a delete button. The app provides a clean UI with a responsive layout and smooth interactions.
